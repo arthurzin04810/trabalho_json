@@ -1,0 +1,39 @@
+[
+  {
+    "posição": "ponta-esquerda",
+    "nome": "Neymar da Silva Santos Júnior",
+    "profissão": "atleta profissional de futebol",
+    "peso": 68.00,
+    "idade": 34
+  },
+  {
+    "posição": "centro-avante",
+    "nome": "Cristiano Ronaldo dos Santos Aveiro",
+    "profissão": "atleta profissional de futebol",
+    "preso": 85.00,
+    "idade": 40
+  },
+ [
+  {
+    "posição": "meia-atacante",
+    "nome": "Lionel Andrés Messi Cuccittini",
+    "profissão": "atleta profissional de futebol",
+    "peso": 67.00,
+    "idade": 38
+  },
+
+   {
+    "posição": "zagueiro",
+    "nome": "Sergio Ramos García.",
+    "profissão": "atleta profissional de futebol",
+    "peso": 82.00,
+    "idade": 40
+  }, {
+    "posição": "goleiro",
+    "nome": " Manuel Peter Neuer",
+    "profissão": "atleta profissional de futebol",
+    "peso": 68,
+    "idade": 93
+  }
+]
+]
